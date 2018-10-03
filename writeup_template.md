@@ -17,16 +17,16 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[vis]: ./distribution.jpg "Visualization"
-[gray]: ./grayscale.jpg "Grayscaling"
-[aug]: ./augment.jpg "Augmenting"
-[vis2]: ./distribution2.jpg "Visualization"
+[vis]: ./examples/distribution.png "Visualization"
+[gray]: ./examples/grayscale.png "Grayscaling"
+[aug]: ./augment.png "Augmenting"
+[vis2]: ./examples/distribution2.png "Visualization"
 [test1]: ./test_signs/70.png "Traffic Sign 1"
 [test2]: ./test_signs/100.png "Traffic Sign 2"
 [test3]: ./test_signs/dig.png "Traffic Sign 3"
 [test4]: ./test_signs/no.png "Traffic Sign 4"
 [test5]: ./test_signs/right.png "Traffic Sign 5"
-[topk]: ./topk.png "Top k"
+[topk]: ./examples/topk.png "Top k"
 
 ## Rubric Points
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
