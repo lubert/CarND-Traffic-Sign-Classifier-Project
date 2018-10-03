@@ -19,7 +19,7 @@ The goals / steps of this project are the following:
 
 [vis]: ./examples/distribution.png "Visualization"
 [gray]: ./examples/grayscale.png "Grayscaling"
-[aug]: ./augment.png "Augmenting"
+[aug]: ./examples/augmenting.png "Augmenting"
 [vis2]: ./examples/distribution2.png "Visualization"
 [test1]: ./test_signs/70.png "Traffic Sign 1"
 [test2]: ./test_signs/100.png "Traffic Sign 2"
